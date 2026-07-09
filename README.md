@@ -1,1 +1,1 @@
-# demo
+msiexec.exe /i SecureConnectorInstaller.msi MODE=AAAAAAAAAAAAAAAAAAAAAAoPGkonEwL7re4YGxlT4ofCAVUpTeUmu2CitfxUvpZrsWb61GExBAABpyxixQ--
